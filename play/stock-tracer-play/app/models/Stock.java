@@ -1,5 +1,5 @@
 package models;
- 
+
 import play.*;
 import play.db.jpa.*;
  
@@ -8,7 +8,6 @@ import java.util.*;
  
 @Entity
 public class Stock extends Model {
- 	
 	public Integer ID_Barang;
 	public String Nama_Barang;
 	public String Jenis;

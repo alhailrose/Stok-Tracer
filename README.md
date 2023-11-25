@@ -18,7 +18,7 @@ Project ini bertujuan untuk mengetahui langkah - langkah dari **round-trip engin
 
 # Lain - lain
 1. Textual Analysis
-
+![Textual Analysis.png]
    
 2. Use Case Diagram
 

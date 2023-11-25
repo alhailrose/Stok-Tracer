@@ -18,14 +18,15 @@ Project ini bertujuan untuk mengetahui langkah - langkah dari **round-trip engin
 
 # Lain - lain
 1. Textual Analysis
-![Textual Analysis.png]
+![Gambar Textual Analysis](https://github.com/alhailrose/Stok-Tracer/blob/master/Textual%20Analysis.png "Textual Analysis")
    
 2. Use Case Diagram
-
+![Gambar Textual Analysis](https://github.com/alhailrose/Stok-Tracer/blob/master/Use%20Case%20Diagram.png "Use Case")
    
 3. Class Diagram
-
+![Gambar Textual Analysis](https://github.com/alhailrose/Stok-Tracer/blob/master/Class%20Diagram.png "Class Diagram")
    
 4. Sequence Diagram
-
+   a. Sequence Login
+![Gambar Textual Analysis](https://github.com/alhailrose/Stok-Tracer/blob/master/Sequence%20Login.png "Sequence Login")
    

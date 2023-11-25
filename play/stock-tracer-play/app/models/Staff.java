@@ -14,11 +14,11 @@ public class Staff extends User {
 	public String Password;
 	public String Position;
 
-	public void Edit() {
+	public void Cek() {
 		throw new UnsupportedOperationException();
 	}
 
-	public void Delete() {
+	public void Submit_Laporan() {
 		throw new UnsupportedOperationException();
 	}
 }

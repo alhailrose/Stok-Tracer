@@ -25,4 +25,8 @@ public class Leader extends User {
 	public void Cek() {
 		throw new UnsupportedOperationException();
 	}
+
+	public void Review_Laporan() {
+		throw new UnsupportedOperationException();
+	}
 }
